@@ -6,11 +6,11 @@ body {
 }
 
 .inline-block {
-    display:inline-block;
-    vertical-align:top;
+    display: inline-block;
+    vertical-align: top;
 }
 
-div.logo {
+.logo {
     width: 23%;
     padding: 1%;
     text-align: center;
