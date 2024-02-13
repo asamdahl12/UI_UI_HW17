@@ -1,8 +1,8 @@
-body {
-    background-color:antiquewhite;
-}
+
 body {
     background-color:#DCE0D9;
+    padding: 0px;
+    margin: 0px;
 }
 
 .inline-block {
@@ -17,8 +17,9 @@ body {
 }
 
 nav {
-    width: 73%;
+    width: 100%;
     padding: 1%;
+    background-color: #283618;
 }
 
 ul {
@@ -38,7 +39,7 @@ ul {
 }
 
 footer {
-    background-color: #373738;
+    background-color: #283618;
 }
 footer ul {
     display: inline-block;
